@@ -47,7 +47,7 @@
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/WellingtonFreitas/PayFlow-App.git
+   $ git clone https://github.com/VSS99-bot/Aplicativo_PayFlow
 
    - Entre no diretório:
    $ cd PayFlow-App
