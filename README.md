@@ -28,7 +28,7 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-       <img alt="PayFlow" title="PayFlow" src=".github/capa.png" />
+       <img alt="PayFlow" title="PayFlow" src="https://github.com/WellingtonFreitas/PayFlow-App/blob/main/.github/capa.png" />
    </p>
 
    <p align="center">
