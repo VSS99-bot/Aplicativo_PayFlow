@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="PayFlow" src=".github/payflow-logo.png" width="200px">
+   <img alt="PayFlow" src="https://github.com/WellingtonFreitas/PayFlow-App/blob/main/.github/payflow-logo.png" width="200px">
 </p>
 
 
@@ -68,8 +68,8 @@
 ### Autor
 ---
 
-<a href="[https://github.com/WellingtonFreitas](https://github.com/VSS99-bot?tab=repositories)">
- <img style="border-radius: 100%;" src=[https://avatars.githubusercontent.com/u/72938207?s=400&u=9c4637de193798aec28c20978e83b0ff7f8b4f28&v=4](https://avatars.githubusercontent.com/u/62568666?s=400&u=8af70756959cfcbecb8a05074b4bfc051031a3e3&v=4)" width="100px;" alt=""/>
+<a href="https://github.com/VSS99-bot">
+ <img style="border-radius: 100%;" src=https://avatars.githubusercontent.com/u/62568666?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Vinicius Sabino</b></sub></a> <a> 
 
